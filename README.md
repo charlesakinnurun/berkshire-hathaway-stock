@@ -91,11 +91,11 @@ berkshire-hathaway-stock/
 ├── brk-b.jpg   
 |── berkshire_hathaway_data.csv
 |── output.png
-├── Screenshot(259).png
-├── Screenshot(260).png
-├── Screenshot(261).png
-├── Screenshot(262).png
-├── Screenshot(263).png
+├── Screenshot259.png
+├── Screenshot260.png
+├── Screenshot261.png
+├── Screenshot262.png
+├── Screenshot263.png
 |── LICENSE
 └── README.md          
 
