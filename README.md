@@ -53,15 +53,15 @@
 - Post-Training Visualization
 
 ## Process
-![Screenshot259](/Screenshot(259).png)
+![Screenshot259](/Screenshot259.png)
 
-![Screenshot260](/Screenshot(260).png)
+![Screenshot260](/Screenshot260.png)
 
-![Screenshot261](/Screenshot(261).png)
+![Screenshot261](/Screenshot261.png)
 
-![Screenshot262](/Screenshot(262).png)
+![Screenshot262](/Screenshot262.png)
 
-![Screenshot263](/Screenshot(263).png)
+![Screenshot263](/Screenshot263.png)
 
 
 ## Usage Instructions
