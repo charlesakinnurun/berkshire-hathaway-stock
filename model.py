@@ -31,6 +31,9 @@ print(f"Downloading historical data for {TICKER}.........")
 df = yf.download(TICKER, start=START_DATE, end=END_DATE)
 
 # %%
+df.to_csv("berkshire_hathway_data.csv",index=False)
+
+# %%
 # Check if the dataframe is empty (e.g, due to a data error or a bad ticker)
 if df.empty:
     print("Error: DataFrame is empty. Check ticker or date range")
