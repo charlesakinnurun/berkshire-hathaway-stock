@@ -53,11 +53,11 @@
 - Post-Training Visualization
 
 ## Process
-![Screenshot259](/Screenshot%20(259).png)
-![Screenshot260](/Screenshot%20(260).png)
-![Screenshot261](/Screenshot%20(261).png)
-![Screenshot262](/Screenshot%20(262).png)
-![Screenshot263](/Screenshot%20(263).png)
+![Screenshot259](/Screenshot(259).png)
+![Screenshot260](/Screenshot(260).png)
+![Screenshot261](/Screenshot(261).png)
+![Screenshot262](/Screenshot(262).png)
+![Screenshot263](/Screenshot(263).png)
 
 ## Usage Instructions
 To run this project locally:
@@ -86,11 +86,11 @@ berkshire-hathaway-stock/
 ├── brk-b.jpg   
 |── berkshire_hathaway_data.csv
 |── output.png
-├── Screenshot (259).png
-├── Screenshot (260).png
-├── Screenshot (261).png
-├── Screenshot (262).png
-├── Screenshot (263).png
+├── Screenshot(259).png
+├── Screenshot(260).png
+├── Screenshot(261).png
+├── Screenshot(262).png
+├── Screenshot(263).png
 |── LICENSE
 └── README.md          
 
