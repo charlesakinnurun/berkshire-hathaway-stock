@@ -96,7 +96,10 @@ berkshire-hathaway-stock/
 ├── Screenshot261.png
 ├── Screenshot262.png
 ├── Screenshot263.png
-|── LICENSE
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── SECURITY.md
+├── LICENSE
 └── README.md          
 
 ```
