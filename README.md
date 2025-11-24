@@ -52,17 +52,27 @@
         - Root Mean Squared Error (RMSE): $3.24
 - Post-Training Visualization
 
-## Process
-![Screenshot259](/Screenshot259.png)
 
-![Screenshot260](/Screenshot260.png)
+## Tech Stack and Tools
+- Programming language
+    - Python 
+- libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - yfinance
+- Environment
+    - Jupyter Notebook
+    - Anaconda
+- IDE
+    - VSCode
 
-![Screenshot261](/Screenshot261.png)
-
-![Screenshot262](/Screenshot262.png)
-
-![Screenshot263](/Screenshot263.png)
-
+You can install all dependencies via:
+```
+pip install -r requirements.txt
+```
 
 ## Usage Instructions
 To run this project locally:
@@ -91,11 +101,6 @@ berkshire-hathaway-stock/
 ├── brk-b.jpg   
 |── berkshire_hathaway_data.csv
 |── output.png
-├── Screenshot259.png
-├── Screenshot260.png
-├── Screenshot261.png
-├── Screenshot262.png
-├── Screenshot263.png
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── SECURITY.md
@@ -104,22 +109,3 @@ berkshire-hathaway-stock/
 
 ```
 
-## Tools and Dependencies
-- Programming language
-    - Python 
-- libraries
-    - scikit-learn
-    - pandas
-    - numpy
-    - seaborn
-    - matplotlib
-    - yfinance
-- Environment
-    - Jupyter Notebook
-- IDE
-    - VSCode
-
-You can install all dependencies via:
-```
-pip install -r requirements.txt
-```
