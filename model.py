@@ -42,6 +42,9 @@ if df.empty:
 #df.reset_index(inplace=True)
 
 # %%
+df
+
+# %%
 # Display the first few rows of the data
 print("----- Initial Head -----")
 df.head()
@@ -67,7 +70,7 @@ print("----- Duplicated Rows -----")
 print(df_duplicated)
 
 # %% [markdown]
-# Feature Engineering: Creating predictiv variables
+# Feature Engineering: Creating prediction variables
 
 # %%
 # 1. Target Variable (y): The price we want to predict
